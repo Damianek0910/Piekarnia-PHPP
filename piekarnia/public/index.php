@@ -70,7 +70,7 @@ $kernel->terminate($request, $response);
     <br/>
     <input type="password" name="password" />
     <br/>
-    <button type="submit">log in </button>
+      <button type="submit">log in </button>
     </form>
 
 </body>
